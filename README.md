@@ -40,7 +40,7 @@ NotiPy is a home security device that uses a Raspberry Pi and a PIR motion senso
     ```
 
 ### 4. Write the Python Script
-1. Create a new Python file (e.g., `motion_detector.py`) and paste the following code:
+1. Create a new Python file (`motion_detector.py`) and paste the following code:
 
     ```python
     import RPi.GPIO as GPIO
